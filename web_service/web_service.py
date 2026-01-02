@@ -5,7 +5,7 @@ app = Flask(_name_)
 
 # NOT: Buradaki linkin sonuna /ziyaretciler eklemen gerekebilir, 
 # ama senin kodunda boyle birakmissin, simdilik dokunmuyorum.
-API_URL = "https://hello-cloud4-cqlb.onrender.com"
+API_URL = "https://hello-cloud4-awtl.onrender.com/"
 
 HTML = """
 <!doctype html>
