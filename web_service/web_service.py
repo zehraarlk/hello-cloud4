@@ -32,6 +32,7 @@ HTML = """
             <li><b>{{ z["isim"] }}</b>: {{ z["mesaj"] }}</li>
         {% endfor %}
     </ul>
+    <p>zehra aralık</p>
 </body>
 </html>
 """
